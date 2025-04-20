@@ -1,3 +1,6 @@
+/**
+** Routes = path of the map **
+**/
 package routes
 
 import (

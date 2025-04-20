@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	routes "github.com/yceman/urban-routes/application"
+	routes "github.com/yceman/urban-routes/navigator/application"
 )
 
 func main() {
