@@ -32,7 +32,7 @@ func main() {
 
 	cliente := Cliente{
 		Nome:  "Marcos",
-		Email: "marcosmorais.v10@gmail.com",
+		Email: "mm2m@gmail.com",
 		CPF:   12345678900,
 	}
 
